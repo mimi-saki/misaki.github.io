@@ -1,0 +1,4 @@
+baseURL = "https://mimi-saki.github.io/misaki.github.io/"
+languageCode = "en-us"
+title = "Misaki"
+theme = "hugo-narrow"
