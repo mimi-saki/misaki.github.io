@@ -1,18 +1,18 @@
 ---
 title: "Home"
 author:
-  name: "Hugo Narrow"
-  title: "A Clean and Minimal Hugo Theme"
-  description: "Focused on content and user experience."
+  name: "Misaki (Rachael) Rios"
+  title: "Compuer Engineering B.S., Japanese Studies Minor @ The University of California, Irvine"
+  description: "hi! I love all things hands-on"
   avatar: "/images/avatar.svg"
   social:
     - name: "GitHub"
-      url: "https://github.com/tom2almighty/hugo-narrow"
+      url: "https://github.com/mimi-saki"
       icon: "github"
-    - name: "Twitter"
-      url: "https://twitter.com/username"
+    - name: "Linkedin"
+      url: "https://www.linkedin.com/in/misaki-rios/"
       icon: "twitter"
     - name: "Email"
-      url: "mailto:hello@example.com"
+      url: "mailto:mrrios102@gmail.com"
       icon: "email"
 ---
