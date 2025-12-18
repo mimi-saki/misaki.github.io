@@ -1,18 +1,17 @@
 ---
-title: "GitHub Style Alert Test"
-date: 2025-06-01T10:00:00+08:00
-slug: test-alert
+title: "Spin Coater"
+date: 2024-02-01T10:00:00+08:00
+slug: spin-coater
 draft: false
-description: "Testing GitHub-style Alert and folding features"
-tags: ["test", "alert", "markdown"]
+description: "Collaborated with other teammates to sketch and create the first version of the spin coater"
+tags: ["prototyping", "CAD", "Arduino"]
 categories: ["Github"]
 ---
 
-# GitHub Style Alert Testing
+# What is a spin coater?
 
-This article is used to test the new GitHub-style Alert feature and folding functionality.
-
-## Alert Syntax
+The spin coater is one of the three primary tools used by Irvine Hacker Fab students to coat and spin our own silicon wafers. Like what the name implies, the spin coater's job 
+is to hold a silicon wafer in place while spinning to achieve an even layer of photoresist.
 
 ### Note Alert
 
