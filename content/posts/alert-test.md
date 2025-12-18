@@ -15,8 +15,9 @@ is to hold a silicon wafer in place while spinning to achieve an even layer of p
 
 ### Note Alert
 
+![](./spincoatercross.png)
+
 > [!NOTE]
-> ![](./spincoatercross.png)
 > This is a note alert box. Used to display useful information that users should be aware of, even when quickly browsing the content.
 
 ### Tip Alert
