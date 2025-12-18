@@ -13,21 +13,11 @@ categories: ["Github"]
 The spin coater is one of the three primary tools used by Irvine Hacker Fab students to coat and spin our own silicon wafers. Like what the name implies, the spin coater's job 
 is to hold a silicon wafer in place while spinning to achieve an even layer of photoresist.
 
-> [!NOTE]
+> [!NOTE] Spin Coater V1
 > ![](./spincoatercross.png) 
 > This is our first working rendition of the spin coater. It is entirely 3D printed, making it accessible and easily replicable. The blue portion is the wafer chuck where the silicon
 > wafer will sit on, while the orange piece is the rotary vaccum (responsible for rotating the chuck). We have a seperate pump and tube that connects to the spin coater which creates
-> the actual suction. 
-
-### Tip Alert
-
-> [!TIP]
-> This is a tip alert box. Provides suggestions that help complete tasks better or more easily.
-
-### Important Alert
-
-> [!IMPORTANT]
-> This is an important alert box. Displays critical information users need to know to achieve their goals.
+> the actual suction. We utilized an LCD screen, breadboard, and Arduino Uno to control the RPMs of the motor, spin cycle duration, and display information about the spin coater.
 
 ## Multilingual Support
 
