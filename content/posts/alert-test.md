@@ -8,17 +8,18 @@ tags: ["prototyping", "CAD", "Arduino"]
 categories: ["Github"]
 ---
 
-# What is a spin coater?
+# What is a Spin Coater?
 
 The spin coater is one of the three primary tools used by Irvine Hacker Fab students to coat and spin our own silicon wafers. Like what the name implies, the spin coater's job 
 is to hold a silicon wafer in place while spinning to achieve an even layer of photoresist.
 
 ### Note Alert
 
-![](./spincoatercross.png)
-
 > [!NOTE]
-> This is a note alert box. Used to display useful information that users should be aware of, even when quickly browsing the content.
+> ![](./spincoatercross.png) 
+> This is our first working rendition of the spin coater. It is entirely 3D printed, making it accessible and easily replicable. The blue portion is the wafer chuck where the silicon
+> wafer will sit on, while the orange piece is the rotary vaccum (responsible for rotating the chuck). We have a seperate pump and tube that connects to the spin coater which creates
+> the actual suction. 
 
 ### Tip Alert
 
@@ -29,80 +30,6 @@ is to hold a silicon wafer in place while spinning to achieve an even layer of p
 
 > [!IMPORTANT]
 > This is an important alert box. Displays critical information users need to know to achieve their goals.
-
-### Warning Alert
-
-> [!WARNING]
-> This is a warning box. Urgent information that requires immediate user attention to avoid problems.
-
-### Caution Alert
-
-> [!CAUTION]
-> This is a caution alert box. Advises users to be aware of the risks or negative consequences of certain behaviors.
-
-## Extended Syntax - Custom Titles
-
-### Note with Custom Title
-
-> [!NOTE] Custom Title
-> This is a note alert box with a custom title.
-
-### Warning with Custom Title
-
-> [!WARNING] Radiation Hazard
-> Do not approach or handle without protective equipment.
-
-## Folding Feature
-
-### Expanded Foldable Alert by Default
-
-> [!TIP]+ Click to Collapse
-> This is an expanded foldable alert box by default. Click the title to collapse the content.
-> 
-> Supports multi-line content:
-> - List item 1
-> - List item 2
-> - List item 3
-
-### Collapsed Alert by Default
-
-> [!IMPORTANT]- Important Information (Collapsed by Default)
-> This is an important information box collapsed by default. Click the title to expand and view the content.
-> 
-> Can include:
-> 1. Ordered list
-> 2. **Bold text**
-> 3. *Italic text*
-> 4. `Code snippet`
-
-### Foldable Alert with Complex Content
-
-> [!CAUTION]+ Complex Content Example
-> This foldable box contains complex Markdown content:
-> 
-> #### Subheading
-> 
-> This is a paragraph containing a [link](https://example.com) and other formatting.
-> 
-> ```javascript
-> // Code block example
-> function hello() {
->   console.log("Hello, World!");
-> }
-> ```
-> 
-> | Table | Example |
-> |------|------|
-> | Row1 | Data1 |
-> | Row2 | Data2 |
-
-## Regular Blockquote
-
-This is a regular blockquote, not an Alert:
-
-> This is a standard blockquote. It won't be rendered as an Alert but will use the standard blockquote styling.
-> 
-> Supports multi-line content and **formatted text**.
 
 ## Multilingual Support
 
